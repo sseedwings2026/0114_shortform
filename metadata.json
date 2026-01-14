@@ -1,0 +1,7 @@
+{
+  "name": "Winter Shorts Creator",
+  "description": "An AI-powered dashboard to generate 30-second video scripts, AI images, and voiceovers for winter delicacies, bundled into a zip file.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
